@@ -3,6 +3,8 @@
 DEMO: https://elated-brahmagupta-b124ab.netlify.app/
 
 
+<hr/>
+
 Вопрос 1
 https://plarson.ru/tn1000x0/i/test800x605.png
 
